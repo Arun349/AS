@@ -1,0 +1,15 @@
+D:\dotnet\Linked List\bin\Debug\net7.0\Linked List.exe
+D:\dotnet\Linked List\bin\Debug\net7.0\Linked List.deps.json
+D:\dotnet\Linked List\bin\Debug\net7.0\Linked List.runtimeconfig.json
+D:\dotnet\Linked List\bin\Debug\net7.0\Linked List.dll
+D:\dotnet\Linked List\bin\Debug\net7.0\Linked List.pdb
+D:\dotnet\Linked List\obj\Debug\net7.0\Linked List.csproj.AssemblyReference.cache
+D:\dotnet\Linked List\obj\Debug\net7.0\Linked List.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\Linked List\obj\Debug\net7.0\Linked List.AssemblyInfoInputs.cache
+D:\dotnet\Linked List\obj\Debug\net7.0\Linked List.AssemblyInfo.cs
+D:\dotnet\Linked List\obj\Debug\net7.0\Linked List.csproj.CoreCompileInputs.cache
+D:\dotnet\Linked List\obj\Debug\net7.0\Linked List.dll
+D:\dotnet\Linked List\obj\Debug\net7.0\refint\Linked List.dll
+D:\dotnet\Linked List\obj\Debug\net7.0\Linked List.pdb
+D:\dotnet\Linked List\obj\Debug\net7.0\Linked List.genruntimeconfig.cache
+D:\dotnet\Linked List\obj\Debug\net7.0\ref\Linked List.dll
